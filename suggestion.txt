@@ -1,0 +1,12 @@
+requirement list is too more as it is by my server, suggest just install these by pip
+
+torch
+streamlist
+numpy
+pickle
+hashlib
+pyPDF2
+sentence_transformers
+faiss
+openai
+dotenv
