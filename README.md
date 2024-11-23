@@ -344,6 +344,10 @@ id,text
 
 ### 操作步骤
 
+![image](https://github.com/user-attachments/assets/feb2a132-a4e9-4d20-81a8-dac4a4d0bdfe)
+![image](https://github.com/user-attachments/assets/737b117c-b489-44ca-b42b-6be363ca534e)
+
+
 #### 文档上传
 
 - 点击 "Browse files" 按钮或直接将文件拖拽至界面中的上传区域。
@@ -397,6 +401,9 @@ id,text
 - 统计信息：提供问题总数、FAISS 索引状态和 BM25 模型状态。
 
 ### 界面信息说明
+
+![image](https://github.com/user-attachments/assets/540a830b-9a23-4f76-af74-1a9027bc4fcf)
+
 
 #### 文件上传信息
 
@@ -457,6 +464,9 @@ id,text
 - 启用 BM25（可选项）：勾选 “在检索中使用 BM25” 复选框后，系统会结合 BM25 模型进行关键词检索。如果未勾选，系统将仅使用向量检索（FAISS）。
 
 #### 输入问题
+
+![image](https://github.com/user-attachments/assets/214436a1-c4bb-45fe-b3cf-950cdff8be5d)
+
 
 - 在输入框中输入自然语言问题，例如：什么是 Graph-RAG？。
 
